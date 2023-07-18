@@ -18,7 +18,7 @@ public class A {
             }
         }
         System.out.println(answer);
-
+        System.out.println();
     }
 
 
